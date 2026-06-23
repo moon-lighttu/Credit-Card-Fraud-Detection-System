@@ -113,5 +113,5 @@ Real-time fraud prediction with user input simulation.
 
 Feel free to connect or reach out for collaborations:
 
-- 🔗 GitHub: [chiragmiyy](https://github.com/moon-lighttu)  
+- 🔗 GitHub: [moon-lighttu](https://github.com/moon-lighttu)  
 - 📧 Email: shekhawatriya11@gmail.com
